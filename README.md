@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Mohamed Sabry
 - 👀 I’m interested in Software Programming & Web Development
 - 🌱 I’m currently learning Full Stack Development Languages : HTML , CSS , JavaScript , jQuery & Bootstrap
+- 🌱 I’m currently learning Django and Python also
 - 💞️ I’m looking to collaborate with other Developers
 - 📫 How to reach me Email: Mohamedsabry725@gmail.com Whatsapp: 01116100114 / 01032145046
 
